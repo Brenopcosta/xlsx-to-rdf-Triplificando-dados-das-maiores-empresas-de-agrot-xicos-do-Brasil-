@@ -1,0 +1,1132 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:si="http://www.w3schools.com/rdf/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core"
+  xmlns:dbpedia="http://dbpedia.org/ontology/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:owl="http://www.w3.org/2002/07/owl"
+  xmlns:geo="http://www.geonames.org/ontology"
+  xmlns:vcard="https://www.w3.org/2006/vcard"
+  xmlns:smg="http://ns.cerise-project.nl/energy/def/cim-smartgrid"
+  xmlns:gn="http://www.geonames.org/ontology">
+ 
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#1"> 
+  <foaf:name>ACTION S/A</foaf:name> 
+  <vcard:Address>Av.Presidente Getulio Vargas, 2932-17º andar Cj:1704</vcard:Address> 
+  <smg:TelephoneNumber> 041-3679-2525 e 041-3342-4108 </smg:TelephoneNumber> 
+  <dbpedia:owner> : Francineia Fonseca </dbpedia:owner>  
+  <foaf:document> 81.071.250/0001-14  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.367_-49.882.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#2"> 
+  <foaf:name>AGECOM PRODUTOS DE PÉTROLEO LTDA</foaf:name> 
+  <skos:prefLabel>PETROMAX IND. COM. LUBRIFICANTES LTDA</skos:prefLabel> 
+  <vcard:Address>R. Ulisses Guimarães,909 – Bairro Sertãozinho</vcard:Address> 
+  <smg:TelephoneNumber> 011-2149-8900 </smg:TelephoneNumber> 
+  <dbpedia:owner> : Paulo Rangel Oliveira C. Rodrigues </dbpedia:owner>  
+  <vcard:email> Paulo.rodrigues@agecom.com.br </vcard:email>  
+  <foaf:document> 57.941.890/0001-53  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.664_-46.447.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#3"> 
+  <foaf:name>AGRARIA INDUSTRIA</foaf:name> 
+  <vcard:Address>Rua Dr. Arthur Castacurta, 500</vcard:Address> 
+  <smg:TelephoneNumber> 016-3690-2200/016-3663-3455 </smg:TelephoneNumber> 
+  <dbpedia:owner> José Carlos S.Peixoto </dbpedia:owner>  
+  <foaf:document> 50.423.383/0001-89  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-21.018_-47.764.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#4"> 
+  <foaf:name>AGRIALLIANCE COMERCIO, IMPORT. E EXPORT. DE INSUMOS AGROPECUARIOS LTDA</foaf:name> 
+  <vcard:Address>Rua Coronel Quirino, 1425 – Sl 32</vcard:Address>   
+  <foaf:document> Marcelo Matallo </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.906_-47.061.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#5"> 
+  <foaf:name>AGRIPEC QUÍMICA E FARMACÊUTICA S/A</foaf:name> 
+  <vcard:Address>Av. Parque Sul, 2138 – 1º Distrito Industrial</vcard:Address> 
+  <smg:TelephoneNumber> 085-3215-1000 </smg:TelephoneNumber> 
+  <dbpedia:owner> Poolyne Rodrigues  </dbpedia:owner>  
+  <foaf:document> 07.467.822/0001-26  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-3.877_-38.626.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#6"> 
+  <foaf:name>AGRITEC LTDA </foaf:name> 
+  <vcard:Address>Rua dos Marins, 2570-Bairro Marins</vcard:Address> 
+  <smg:TelephoneNumber> 019-3427-1455 </smg:TelephoneNumber>  
+  <foaf:document> 51.059.970/0001-01  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.725_-47.649.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#7"> 
+  <foaf:name>AGROLI INDUSTRIA QUIMICA LTDA</foaf:name> 
+  <vcard:Address>Rod. SP 101, Km 32 – B.Chacaras Planalto </vcard:Address> 
+  <smg:TelephoneNumber> 019-3879-2067 </smg:TelephoneNumber> 
+  <foaf:document> 46.027.215/0001-05  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#8"> 
+  <foaf:name>AGROCETE IND.E COM. DE PROD.AGROPECUARIOS LTDA</foaf:name> 
+  <vcard:Address>Rua Anna Scremin, 800- Distrito Industrial</vcard:Address> 
+  <smg:TelephoneNumber>  42-3228-1229  </smg:TelephoneNumber> 
+  <vcard:email>  agrocete.com.br </vcard:email>  
+  <foaf:document> 75.007.385/0001-18  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#9"> 
+  <foaf:name>AGROVANT COMERCIO DE PRODUTO AGRICOLA LTDA </foaf:name> 
+  <vcard:Address>Av.Jaime Ribeiro, 409 C – Vila Industrial,</vcard:Address> 
+  <smg:TelephoneNumber> 016-3202-7818 / 16-3202-8057 </smg:TelephoneNumber> 
+  <dbpedia:owner> John W.Redfrn Jr. </dbpedia:owner>  
+  <foaf:document> 05.830.454/0001-03  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#10"> 
+  <foaf:name>AMVAC DO BRASIL REPRESENTAÇÕES LTDA</foaf:name> 
+  <foaf:document> 08.168.776/0001-27  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#11"> 
+  <foaf:name>ALLIERBRASIL AGRONOMIA LTDA </foaf:name> 
+  <vcard:Address>Rua D. Antonia de Queiroz, 504 – Sala 123 </vcard:Address> 
+  <smg:TelephoneNumber> 11-3337-0471  </smg:TelephoneNumber> 
+  <vcard:email> allier@allierbrasil.com.br  </vcard:email>  
+  <foaf:document> 02.850.049/0001-69  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#12"> 
+  <foaf:name>ALKAGRO DO BRASIL LTDA </foaf:name> 
+  <vcard:Address>Rua São José, 1487 – Sl 01 </vcard:Address> 
+  <smg:TelephoneNumber> 019-3422-3990 </smg:TelephoneNumber>  
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.725_-47.649.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#13"> 
+  <foaf:name>ARKEMA QUÍMICA LTDA </foaf:name> 
+  <vcard:Address>Av. Ibirapuera, 2033 - 4º andar</vcard:Address> 
+  <smg:TelephoneNumber> 011-2148-8522 e 011-5051-0472 </smg:TelephoneNumber>  
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#14"> 
+  <foaf:name>ARYSTA LIFESCIENCES DO BRASIL</foaf:name> 
+  <vcard:Address>Rua Jundiaí, 50 - 4º andar-</vcard:Address> 
+  <smg:TelephoneNumber>  011-3054-5046 e 011-3057-5052 </smg:TelephoneNumber> 
+  <dbpedia:owner>  Elaine Dias  </dbpedia:owner>  
+  <foaf:document> 62.183.092-0001-25  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#15"> 
+  <foaf:name>ATTA KILL INDUSTRIA E COMERCIO DE DEFENSIVOS AGRICOLAS LTDA</foaf:name> 
+  <vcard:Address>Av. Roberto de Jesus de Affonso, 69</vcard:Address> 
+  <dbpedia:owner>  Edson Dias Silva  </dbpedia:owner>  
+  <foaf:document> 65.591.430/0001-70  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-21.794_-48.176.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#16"> 
+  <foaf:name>ATANOR DO BRASIL LTDA </foaf:name> 
+  <vcard:Address>Av. Carlos Gomes, nº 111, Sl 1001 </vcard:Address> 
+  <smg:TelephoneNumber> (51) 3019-3125 </smg:TelephoneNumber> 
+  <dbpedia:owner>  Karina Pereira de Andrade </dbpedia:owner>  
+  <foaf:document> 01.789.121/0001-27  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-30.033_-51.23.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#17"> 
+  <foaf:name>ATAR DO BRASIL DEFENSIVOS AGRIC. LTDA</foaf:name> 
+  <vcard:Address>Av. Basileia,590</vcard:Address>  
+  <foaf:document> 07.062.344/0001-74  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.469_-44.447.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#18"> 
+  <foaf:name>ATOFINA BRASIL QUÍMICA LTDA</foaf:name> 
+  <vcard:Address>Av. Ibirapuera, 2033-4º andar</vcard:Address> 
+  <smg:TelephoneNumber>  011-5056-8522 </smg:TelephoneNumber>  
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#19"> 
+  <foaf:name>BASF S/A</foaf:name> 
+  <vcard:Address>Av Faria Lima, 3600 - 11º andar</vcard:Address> 
+  <smg:TelephoneNumber> 011-3043-2043 </smg:TelephoneNumber> 
+  <dbpedia:owner> Moacir Hellmann ou Fabio Pevide </dbpedia:owner>  
+  <foaf:document> 48.539.407/0001-18  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.586_-46.682.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#20"> 
+  <foaf:name>BAYER S/A</foaf:name> 
+  <vcard:Address>Rua Domingos Jorge, 1100 - 1º andar - Prédio nº9504</vcard:Address> 
+  <smg:TelephoneNumber> 011- 5694-7305  </smg:TelephoneNumber> 
+  <dbpedia:owner>  José Orlando Sartori </dbpedia:owner>  
+  <vcard:email> Tatiane.rozinela@bayer.cropscience.com </vcard:email>  
+  <foaf:document> 18.459.628/0001-15  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#21"> 
+  <foaf:name>BEQUISA S/A</foaf:name> 
+  <vcard:Address>Rod. Padre Manuel da Nobrega, Km 281 gleba 37 - 8º andar</vcard:Address> 
+  <smg:TelephoneNumber>  013-3565-1212 </smg:TelephoneNumber> 
+  <dbpedia:owner> David H. Brooks </dbpedia:owner>  
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.983_-46.467.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#22"> 
+  <foaf:name>BERNADO QUÍMICA S/A</foaf:name> 
+  <vcard:Address>Rod. Padre Manuel da Nobrega, Km 281 gleba 37 - 8º andar </vcard:Address> 
+  <smg:TelephoneNumber> 013-3565-1212 </smg:TelephoneNumber> 
+  <dbpedia:owner> David H. Brooks </dbpedia:owner>  
+  <foaf:document> 58.133.703/0001-78  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.983_-46.467.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#23"> 
+  <foaf:name>BIO CONTROLE MÉTODOS DE CONTROLE DE PRAGAS LTDA</foaf:name> 
+  <vcard:Address>Rua João Agnes, 117 </vcard:Address> 
+  <smg:TelephoneNumber> 019-3935-9816 </smg:TelephoneNumber> 
+  <dbpedia:owner> Ane  </dbpedia:owner>  
+  <vcard:email> desenvolvimento@biocontrole.com.br  </vcard:email>  
+  <foaf:document> 01.841.604/0001-23  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.533_-46.7.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#24"> 
+  <foaf:name>BIO SOJA INDUSTRIAS QUÍMICAS E BIOLOGICAS LTDA</foaf:name> 
+  <vcard:Address>Av. Marginal Esquerda, 1000 </vcard:Address> 
+  <smg:TelephoneNumber>  016-3987-1811  </smg:TelephoneNumber> 
+  <foaf:document> 45.365.558/0001-09  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-20.581_-47.855.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#25"> 
+  <foaf:name>BRA DEFENSIVOS AGRICOLAS LTDA</foaf:name> 
+  <vcard:Address>Rua Dr.Vale, 60/Cj. 303/B</vcard:Address> 
+  <smg:TelephoneNumber> 051-3029-1425 </smg:TelephoneNumber>  
+  <foaf:document> 07.057.944/0001-44  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-30.033_-51.23.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#26"> 
+  <foaf:name>BROMISA INDUSTRIA E COMERCIO LTDA</foaf:name> 
+  <vcard:Address>Av. Angelica, 1814 – 13º andar </vcard:Address> 
+  <smg:TelephoneNumber>  11-3823-8770  </smg:TelephoneNumber>  
+  <foaf:document> 54.449.111/0001-09  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#27"> 
+  <foaf:name>BUCKMAN IND. COMERCIAL LTDA</foaf:name> 
+  <dbpedia:owner> Laert de Carvalho </dbpedia:owner>  
+  <foaf:document> 44.589.885/0001-81  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.906_-47.061.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#28"> 
+  <foaf:name>CCAB AGRO S.A</foaf:name> 
+  <vcard:Address>Rua Teixeira da Silva, 660 – Cj. 133/134 </vcard:Address> 
+  <smg:TelephoneNumber> 011-3889-5600 </smg:TelephoneNumber> 
+  <vcard:email> maria.fernanda@ccab-agro.com.br </vcard:email>  
+  <foaf:document> 08.938.255/0001-01  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#29"> 
+  <foaf:name>CONSAGRO AGROQUÍMICA LTDA –</foaf:name> 
+  <vcard:Address>Av.Antonio Carlos Couto de Barros,2278-Sl 06-07</vcard:Address> 
+  <dbpedia:owner> Ana Caroline Augusta da Silva </dbpedia:owner>  
+  <foaf:document> 07.273.677/0001-42  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.906_-47.061.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#30"> 
+  <foaf:name>CHARMON DESTIL INDUSTRIA QUÍMICA LTDA</foaf:name> 
+  <vcard:Address>Rua Cel. Spínola de Castro, 4843 - 12º andar</vcard:Address>   
+  <foaf:document> 53.929.519/0001-15  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-20.82_-49.379.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#31"> 
+  <foaf:name>CHEMINOVA BRASIL LTDA </foaf:name> 
+  <vcard:Address>Rua Alexandre Dumas, 2220 - 5º andar - Chácara Santo Antônio </vcard:Address> 
+  <smg:TelephoneNumber>  011-5189-2100 </smg:TelephoneNumber> 
+  <dbpedia:owner> Arnaldo André Massariol </dbpedia:owner>  
+  <foaf:document> 01.489.019/0001-06  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.864_-46.684.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#32"> 
+  <foaf:name>CHEMITEC AGRO. VETERINARIA</foaf:name> 
+  <vcard:Address>Rua Palmares, 51 </vcard:Address> 
+  <smg:TelephoneNumber> 011-274-7022 e 011-274-9659 </smg:TelephoneNumber> 
+  <dbpedia:owner>  Sergio Paulo Sardinha </dbpedia:owner>  
+  <foaf:document> 01.229.649/0001-18  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.6_-46.617.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#33"> 
+  <foaf:name>CHEMOTÉCNICA DO BRASIL LTDA</foaf:name> 
+  <vcard:Address>Rua Joaquim Floriano, 466 </vcard:Address>  
+  <vcard:email> jfranke@chemotecnica.com </vcard:email>  
+  <foaf:document> 00.682.193/0001-08  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#34"> 
+  <foaf:name>CHEMTURA IND. QUÍMICA DO BRASIL LTDA</foaf:name> 
+  <vcard:Address>Av das Nações Unidas, 4777 – Ed. Villa Lobos - 15º andar</vcard:Address> 
+  <smg:TelephoneNumber> 011-3896-1506 </smg:TelephoneNumber> 
+  <dbpedia:owner>  Luiz Claudio P.Damaceno </dbpedia:owner>  
+  <vcard:email> luiz.damasceno@chemtura.com  </vcard:email>  
+  <foaf:document> 68.392.844/0002/40 </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#35"> 
+  <foaf:name>CHEMTRA COML. IMP.EXP. LTDA </foaf:name> 
+  <vcard:Address>Av. Angelica, 1814 - 13º andar </vcard:Address> 
+  <smg:TelephoneNumber> 011-3823-8770 </smg:TelephoneNumber> 
+  <dbpedia:owner> Monica Vita  </dbpedia:owner>   
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#36"> 
+  <foaf:name>CHEVRON BRASIL LTDA</foaf:name> 
+  <vcard:Address>Av. Republica do Chile, 230 – 25° andares</vcard:Address> 
+  <smg:TelephoneNumber> 21-2271-9095  </smg:TelephoneNumber> 
+  <foaf:document> 33.337.122/0001-27 </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.906_-43.177.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#37"> 
+  <foaf:name>CROSS LINK CONSULTORIA E COM. LTDA</foaf:name> 
+  <vcard:Address>Calçada das Calêndulas, 24 Sl. 22 – Centro Comercial Alphaville</vcard:Address> 
+  <smg:TelephoneNumber> 011-4197-0265 e 011-4197-0264 </smg:TelephoneNumber> 
+  <dbpedia:owner> Rogério Gabriel </dbpedia:owner>  
+  <foaf:document> 67.148.692/0001-90 </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.511_-46.876.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#38"> 
+  <foaf:name>CROPCHEM LTDA</foaf:name> 
+  <vcard:Address>Av. Cristovão Colombo, 2834 – Cj-803 e 804</vcard:Address> 
+  <smg:TelephoneNumber> 51-3342-0414 </smg:TelephoneNumber> 
+  <dbpedia:owner>  Carlos Guilherme Allgayer  </dbpedia:owner>  
+  <foaf:document> 03.625.679/0001-00 </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/wikipedia_-30.0282_-51.2288.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#39"> 
+  <foaf:name>DE SANGOSSE AGROQUÍMICA LTDA </foaf:name> 
+  <vcard:Address>Rua Raimundo Ramos Ferreira, 134 </vcard:Address> 
+  <smg:TelephoneNumber> 041-3346-5711  </smg:TelephoneNumber> 
+  <dbpedia:owner> Gysleine Lourencetti  </dbpedia:owner>  
+  <foaf:document> 03.251.763/0001-01  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-25.428_-49.273.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#40"> 
+  <foaf:name>DEGESCH DO BRASIL INDUSTRIA E COMERCIO LTDA </foaf:name> 
+  <vcard:Address>Rod. Padre Manoel da Nóbrega, KM 281, Gleba 37, Sala 1 – Parque Ind. Imigrantes </vcard:Address> 
+  <smg:TelephoneNumber> 013-3565-1212  </smg:TelephoneNumber>  
+  <foaf:document> 44.595.981/0001-32  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.963_-46.392.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#41"> 
+  <foaf:name>DINAGRO AGROPECUÁRIA LTDA </foaf:name> 
+  <vcard:Address>Via Anhanguera, Km 304 </vcard:Address> 
+  <smg:TelephoneNumber> 016-3629-1110  </smg:TelephoneNumber>   
+  <foaf:document> 55.991.921/0001-55  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-21.177_-47.81.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#42"> 
+  <foaf:name>DICHEM QUIMICA LTDA </foaf:name> 
+  <vcard:Address>Praca da Republica, 87 – 7º andar </vcard:Address>   
+  <foaf:document> 06.131.059/0001-03  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.961_-46.334.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#43"> 
+  <foaf:name>DOW AGROSCIENCES INDUSTRIAL LTDA </foaf:name> 
+  <vcard:Address>Av. das Nações Unidas,14171 – 2º andar </vcard:Address> 
+  <smg:TelephoneNumber> 011-5188-9176  </smg:TelephoneNumber>   
+  <foaf:document> 47.180.625/0001-46  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#44"> 
+  <foaf:name>DU PONT AGRICULTURA E NUTRIÇÃO </foaf:name> 
+  <vcard:Address>Rua Bartolo Ferro, 500-A </vcard:Address> 
+  <smg:TelephoneNumber> 019-3833-5966 e 019-3833-5996  </smg:TelephoneNumber> 
+  <dbpedia:owner> Simone Saito Palma  </dbpedia:owner>  
+  <foaf:document> 61.064.929/0001-79  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.761_-47.154.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#45"> 
+  <foaf:name>DVA AGRO DO BRASIL </foaf:name> 
+  <skos:prefLabel>COM. IMP. EXP. DE INSUMO AGROPECUÁRIOS LTDA </skos:prefLabel> 
+  <vcard:Address>Rua Dr. Paulo Castro Puppo Nogueira, 90 </vcard:Address> 
+  <smg:TelephoneNumber> 019-3794-5620 e 019-3794-5653  </smg:TelephoneNumber> 
+  <dbpedia:owner> Marcelo Matallo  </dbpedia:owner>  
+  <foaf:document> 02.974.733/0001-52  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.906_-47.061.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#46"> 
+  <foaf:name>DVA ESPECIALIDADES </foaf:name> 
+  <skos:prefLabel>COM. IMP. EXP. DE INSUMO AGROPECUÁRIOS LTDA </skos:prefLabel> 
+  <vcard:Address>Rua Dr. Paulo Castro Puppo Nogueira, 90 </vcard:Address> 
+  <smg:TelephoneNumber> 019-3794-5620 e 019-3794-5653  </smg:TelephoneNumber> 
+  <dbpedia:owner> Marcelo Matallo  </dbpedia:owner>  
+  <foaf:document> 09.361.259/0001-32  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.906_-47.061.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#47"> 
+  <foaf:name>ENRO INDUSTRIAL LTDA </foaf:name> 
+  <vcard:Address>Rua Tomé Afonso de Moura, 269/271 </vcard:Address> 
+  <smg:TelephoneNumber> 011-6231-8644  </smg:TelephoneNumber>  
+  <foaf:document> 61.293.387/0001-06  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#48"> 
+  <foaf:name>ECCO CONTTROL CONTROLE ECOLÓGICO DE PRAGAS E COMERCIAL LTDA </foaf:name> 
+  <vcard:Address>Al. Dom Pedro de Alcantara, 622 – Bairro Nova Petropolis </vcard:Address> 
+  <smg:TelephoneNumber> 11-4125-6074  </smg:TelephoneNumber> 
+  <foaf:document> 71.817.001/0001-71  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/wikipedia_-23.6939_-46.565.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#49"> 
+  <foaf:name>EVONIK DEGUSSA BRASIL LTDA </foaf:name> 
+  <vcard:Address>Alameda Campinas, 579 – 3º ao 13º andar </vcard:Address>  
+  <foaf:document> 62.695.036/0001-94  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#50"> 
+  <foaf:name>EMBRADEF INDÚSTRIA E COMÉRCIO DE PRODUTOS QUIMICOS </foaf:name> 
+  <vcard:Address>Rua Eng Ariel Villar Tacla 730 </vcard:Address>   
+  <foaf:document> 82.338.773/0001-47  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-25.428_-49.273.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#51"> 
+  <foaf:name>FERSOL S/A </foaf:name> 
+  <vcard:Address>Rod. Pres. Castelo Branco, Km 68,5 </vcard:Address> 
+  <smg:TelephoneNumber> : 011-4246-6200  </smg:TelephoneNumber> 
+  <foaf:document> 47.226.493/0001-46  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.546_-47.183.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#52"> 
+  <foaf:name>FUNGURAN GIULINI LTDA </foaf:name> 
+  <vcard:Address>Av.Robert Kennedy, 235-Sla 04-Capela Socorro</vcard:Address> 
+  <smg:TelephoneNumber> 011-5643-9412  </smg:TelephoneNumber> 
+  <dbpedia:owner> (VIGNA BRASIL)-Fabio de Almeida Domingues  </dbpedia:owner>  
+  <foaf:document> 12.362.625/0001-82  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.694_-46.707.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#53"> 
+  <foaf:name>FMC QUÍMICA DO BRASIL LTDA </foaf:name> 
+  <vcard:Address>Av. José Bonifácio Coutinho Nogueira, 150 - 1º andar </vcard:Address> 
+  <smg:TelephoneNumber> 019-3735-4444  </smg:TelephoneNumber> 
+  <dbpedia:owner> Priscila Almeida  </dbpedia:owner>  
+  <foaf:document> 04.136.367/0001-98  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.906_-47.061.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#54"> 
+  <foaf:name>FENIX AGRO-PECUS INDUSTRIAL LTDA </foaf:name> 
+  <vcard:Address>Rodovia Cornélio Pires Km 69,5 SP 127 – CP.121 </vcard:Address> 
+  <smg:TelephoneNumber> 015-3282-4366  </smg:TelephoneNumber> 
+  <dbpedia:owner>  </dbpedia:owner>  
+  <vcard:email> quimifol@quimifol.com.br  </vcard:email>  
+  <foaf:document> 67,533,778/0001-37  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.102_-47.715.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#55"> 
+  <foaf:name>GE OSI INDUSTRIA DE SILICONES LTDA </foaf:name> 
+  <vcard:Address>Rua das paineiras, 110 </vcard:Address> 
+  <smg:TelephoneNumber> 011-5523-1517  </smg:TelephoneNumber> 
+  <dbpedia:owner> : Raquel Bracci  </dbpedia:owner>  
+  <foaf:document> 05.701.847/0001-17  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#56"> 
+  <foaf:name>GOTA IND. E COMERCIO LTDA </foaf:name> 
+  <vcard:Address>Rua Joana Ostrowsei, 208 </vcard:Address>  
+  <foaf:document> 02.478.464/0001-33  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-25.714_-49.508.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#57"> 
+  <foaf:name>HELM DO BRASIL MERCANTIL LTDA </foaf:name> 
+  <vcard:Address>Rua Alexandre Dumas, 2220 – 4º andar – Cj. 41 – Chácara stº Antonio </vcard:Address> 
+  <smg:TelephoneNumber> 011-5181-4099  </smg:TelephoneNumber> 
+  <dbpedia:owner> Vilma de Souza Macena  </dbpedia:owner>  
+  <foaf:document> 47.176.755/0001-05  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#58"> 
+  <foaf:name>HERCES DO BRASIL QUIMICA LTDA </foaf:name> 
+  <vcard:Address>Rua Casa Branca, 1771 – Vila Brasil </vcard:Address> 
+  <smg:TelephoneNumber> 016-3624-9682  </smg:TelephoneNumber>  
+  <foaf:document> 55.126.106/0001-28  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-21.177_-47.81.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#59"> 
+  <foaf:name>IHARABRAS S/A </foaf:name> 
+  <vcard:Address>Av. Liberdade, 1701 – Cajuru do Sul </vcard:Address> 
+  <smg:TelephoneNumber> 015-3235-7765  </smg:TelephoneNumber> 
+  <vcard:email> danilo.peixoto@ihara.com.br  </vcard:email>  
+  <foaf:document> 61.142.550/0001-30  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.398_-47.377.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#60"> 
+  <foaf:name>INDOL DO BRASIL AGROQUÍMICA LTDA </foaf:name> 
+  <vcard:Address>Rua Raimundo Ramos Ferreira, 134 </vcard:Address> 
+  <smg:TelephoneNumber> 041-3346-5711  </smg:TelephoneNumber> 
+  <dbpedia:owner> Gysleine Lourencetti  </dbpedia:owner>  
+  <gn:locationMap>http://www.geonames.org/maps/google_-25.428_-49.273.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#61"> 
+  <foaf:name>INDUSTRIA QUÍMICA DIPIL LTDA </foaf:name> 
+  <vcard:Address>Rod. Guilerme Jense SC-413, s/n </vcard:Address> 
+  <smg:TelephoneNumber> 47-3379-1342  </smg:TelephoneNumber>  
+  <gn:locationMap>http://www.geonames.org/maps/google_-26.62_-48.982.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#62"> 
+  <foaf:name>INQUIMA LTDA </foaf:name> 
+  <vcard:Address>Rod. Melo Peixoto BR 369, Km 167 </vcard:Address>  
+  <foaf:document> 03.408.715/0001-76  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.276_-51.278.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#63"> 
+  <foaf:name>IQ Soluções & Quimica S.A </foaf:name> 
+  <skos:prefLabel>(IPIRANGA QUIMICA S/A </skos:prefLabel> 
+  <vcard:Address>Av. Angelica, 2346, 15º Andar </vcard:Address> 
+  <smg:TelephoneNumber> 011-2195-9102  </smg:TelephoneNumber> 
+  <foaf:document> 62.227.509/0001-29  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#64"> 
+  <foaf:name>IRRIGAÇÃO DIAS CRUZ LTDA - ME </foaf:name> 
+  <skos:prefLabel>k</skos:prefLabel> 
+  <vcard:Address>Rua das Orquideas, 152 – Vila Mariná </vcard:Address> 
+  <smg:TelephoneNumber> 011-4451-6638  </smg:TelephoneNumber> 
+  <dbpedia:owner> Enio Alves da Cruz  </dbpedia:owner>  
+  <foaf:document> 57.397.200/0001-47  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.664_-46.538.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#65"> 
+  <foaf:name>ISAGRO BRASIL COM. DE PROD. AGROP. LTDA </foaf:name> 
+  <vcard:Address>Rua Joaquim Floriano, 466 – Cj. 1205 </vcard:Address> 
+  <foaf:document> 06.151.494/0001-91  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.586_-46.682.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#66"> 
+  <foaf:name>ISCA TECNOLOGIAS LTDA </foaf:name> 
+  <vcard:Address>Rua Antonio Luiz Pazzini, 191 </vcard:Address> 
+  <smg:TelephoneNumber> 055-3332-6844  </smg:TelephoneNumber> 
+  <dbpedia:owner> Leandro Ernestro  </dbpedia:owner>  
+  <foaf:document> 01.745.592/0001-33  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.088_-47.212.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#67"> 
+  <foaf:name>ISK BIOSCENCES DO BRASIL DEF.AGRIC. LTDA </foaf:name> 
+  <vcard:Address>Rua Ademar de Barros, 1124 – Bairro Cidade Nova </vcard:Address> 
+  <smg:TelephoneNumber> 019-3875-7450  </smg:TelephoneNumber> 
+  <dbpedia:owner> Andreia Paes Shiwa  </dbpedia:owner>  
+  <foaf:document> 02.657.037/0001-29  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.088_-47.212.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#68"> 
+  <foaf:name>ITAFORTE BIOPRODUTOS </foaf:name> 
+  <vcard:Address>Rod. Raposo Tavares, Km 167 – Caixa Postal 808 </vcard:Address> 
+  <smg:TelephoneNumber> 015-3271-2971  </smg:TelephoneNumber> 
+  <dbpedia:owner> Ariclenis Aníbal Ballarotti  </dbpedia:owner>  
+  <foaf:document> 65.017.857/0001-60  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.592_-48.053.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#69"> 
+  <foaf:name>KMG CHEMICALS DO BRASIL LTDA </foaf:name> 
+  <vcard:Address>Rua Manoel da Nobrega, 1280 - 10º andar </vcard:Address> 
+  <smg:TelephoneNumber> 011-3884-0111  </smg:TelephoneNumber>   
+  <foaf:document> 04.876.285/0001-80  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#70"> 
+  <foaf:name>LANDRIN IND. E COM. DE INSETICIDAS LTDA </foaf:name> 
+  <vcard:Address>Rua Empresário A Senger, 135 - Caixa Postal 1164 </vcard:Address> 
+  <smg:TelephoneNumber> 054-3330-9600  </smg:TelephoneNumber>   
+  <foaf:document> 88.446.067/0001-03  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-28.278_-52.864.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#71"> 
+  <foaf:name>LANXESS </foaf:name> 
+  <vcard:Address>Rua das Paineiras, 110 – Jardim dos Lagos </vcard:Address> 
+  <smg:TelephoneNumber> 011-55231517  </smg:TelephoneNumber> 
+  <dbpedia:owner> Srt. Gleide  </dbpedia:owner>  
+  <foaf:document> 06.176.436/0001-12  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#72"> 
+  <foaf:name>LUXEMBOURG BRASILCOMERCIO DE PRODUTOS QUIMICOS </foaf:name> 
+  <vcard:Address>Av. Irai, 79 Cj. 118 </vcard:Address> 
+  <smg:TelephoneNumber> (11)5096-6633  </smg:TelephoneNumber> 
+  <vcard:email> milena@luxembourg.com.br  </vcard:email>  
+  <foaf:document> 05.777.338/0001-78  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.595_-46.664.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#73"> 
+  <foaf:name>Comercio e Industria MATSUDA Importação e Exportação LTDA </foaf:name> 
+  <vcard:Address>Rua Americo Vespucio, 381-Cj 204-205 </vcard:Address> 
+  <smg:TelephoneNumber> 051-3342-028  </smg:TelephoneNumber>   
+  <foaf:document> 43.206.069/0001-89  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-30.033_-51.23.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#74"> 
+  <foaf:name>MAYLE QUÍMICA LTDA </foaf:name> 
+  <vcard:Address>Rua Tome Afonso de Moura, 269 – Vila America </vcard:Address> 
+  <smg:TelephoneNumber>  011- 3203-0833  </smg:TelephoneNumber> 
+  <dbpedia:owner> Rosimeire Marin  </dbpedia:owner>   
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.739_-47.331.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#75"> 
+  <foaf:name>MERCK S/A </foaf:name> 
+  <vcard:Address>Rua das Paineiras, 110 – Jardim dos Lagos </vcard:Address> 
+  <smg:TelephoneNumber> 011-55231517  </smg:TelephoneNumber> 
+  <foaf:document> 33.069.212/0008-50  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#76"> 
+  <foaf:name>MICROQUIMICA INDUSTRIA QUIMICAS LTDA </foaf:name> 
+  <vcard:Address>Rua Eduardo Edargê Badarô, 430 – Caixa Postal 1835– Jd. Eulina </vcard:Address> 
+  <smg:TelephoneNumber> 019-3242-4699  </smg:TelephoneNumber> 
+  <foaf:document> 48.196.695/0001-55  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.906_-47.061.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#77"> 
+  <foaf:name>MILENIA AGROCIENCIAS S/A </foaf:name> 
+  <vcard:Address>Rua Pedro Antonio de Souza, 400 </vcard:Address> 
+  <smg:TelephoneNumber> 043-3371-9000  </smg:TelephoneNumber> 
+  <dbpedia:owner> Michele Buassi  </dbpedia:owner>  
+  <foaf:document> 02.290.510/0001-76  </foaf:document> 
+  <gn:locationMap>www.geonames.org/maps/google_-23.31_-51.163.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#78"> 
+  <foaf:name>MITSUBISHI CORPORATION DO BRASIL S/A </foaf:name> 
+  <vcard:Address>Av. Paulista, 1294 – 23º andar </vcard:Address>  
+  <foaf:document> 61.090.619/0001-29  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#79"> 
+  <foaf:name>MITSUI BRASILEIRA IMPORTAÇÃO E EXPORTAÇÃO S/A </foaf:name> 
+  <vcard:Address>Av. Paulista, 1842 – 23º andar – Cetenco Plaza </vcard:Address> 
+  <smg:TelephoneNumber> 011-3371-9704  </smg:TelephoneNumber> 
+  <dbpedia:owner> Luiz Alvez  </dbpedia:owner>  
+  <foaf:document> 61.139.697/0001-70  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#80"> 
+  <foaf:name>MONSANTO DO BRASIL LTDA </foaf:name> 
+  <vcard:Address>Av. das Nações Unidas, 12901 – CENU – 7º andar – Torre Norte- Brooklin </vcard:Address> 
+  <smg:TelephoneNumber> 011-5503-2600  </smg:TelephoneNumber> 
+  <dbpedia:owner> Raquel Langone Marques  </dbpedia:owner>  
+  <foaf:document> 64.858.525/0001-45  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#81"> 
+  <foaf:name>MOMENTIVE PERFORMANCE MAT.IND. DE SILICONES LTDA </foaf:name> 
+  <vcard:Address>Rod. Engenheiro Constâncio Cintra, Km 78,5 </vcard:Address> 
+  <smg:TelephoneNumber> 011- 4534-9600  </smg:TelephoneNumber> 
+  <dbpedia:owner> Cleber Pupo  </dbpedia:owner>  
+  <vcard:email> Cleber.pupo@momentive.com N  </vcard:email>  
+  <foaf:document> 05.701.847/0001-17  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.006_-46.839.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#82"> 
+  <foaf:name>NITRAL URBANA </foaf:name> 
+  <vcard:Address>Rua Rio Piquiri, 650 – Jd. Weissopolis </vcard:Address> 
+  <smg:TelephoneNumber> 041-3667-3456 e 041-3667-1505  </smg:TelephoneNumber> 
+  <dbpedia:owner> José Alberto Nunes da Silva  </dbpedia:owner>  
+  <foaf:document> 02.930.855/0001-47  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-25.445_-49.193.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#83"> 
+  <foaf:name>NORTOX S/A </foaf:name> 
+  <vcard:Address>Rodovia BR 369, Km 197 / Caixa Postal 81 </vcard:Address> 
+  <smg:TelephoneNumber> 43-3274-8585  </smg:TelephoneNumber> 
+  <foaf:document> 75.263.400/0001-99  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.419_-51.424.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#84"> 
+  <foaf:name>NOVARTIS AGROBUSINESS LTDA </foaf:name> 
+  <vcard:Address>Av. das Nações Unidas, 18001 – Bairro Sto Amaro </vcard:Address> 
+  <smg:TelephoneNumber> 011-5643-2177  </smg:TelephoneNumber> 
+  <dbpedia:owner> Claudia M. Oliveira Guassu  </dbpedia:owner>   
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#85"> 
+  <foaf:name>NUFARM INDUSTRIA QUÍMICA E FARMACÊUTICA S/A </foaf:name> 
+  <vcard:Address>Av. Parque Sul, 2138 – 1º Distrito Industrial </vcard:Address> 
+  <smg:TelephoneNumber> 085-3215-1000  </smg:TelephoneNumber> 
+  <dbpedia:owner> Abrahão Macário  </dbpedia:owner>  
+  <foaf:document> 07.467.822/0001-26  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-3.877_-38.626.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#86"> 
+  <foaf:name>NUFARM DO BRASIL LTDA </foaf:name> 
+  <vcard:Address>Rua Samuel Morse, 74 – 15º andar – Cj. 153 - Brooklin </vcard:Address> 
+  <smg:TelephoneNumber> 011-2165-0998  </smg:TelephoneNumber> 
+  <dbpedia:owner> Tarcisio Pereira Granja  </dbpedia:owner>  
+  <foaf:document> 02.644.746/0001-63  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.623_-46.678.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#87"> 
+  <foaf:name>NOVAQUIM COMÉRCIO DE PRODUTOS AGRÍCOLAS LTDA </foaf:name> 
+  <vcard:Address>R Luiz Seráphico Júnior 1070 - 3 s 8 </vcard:Address> 
+  <smg:TelephoneNumber> (11) 5643-9412  </smg:TelephoneNumber>  
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#88"> 
+  <foaf:name>OXIQUIMICA AGROCIENCIA LTDA </foaf:name> 
+  <vcard:Address>Rua Minervino de Campos Pedroso, 13, Parque Industrial Carlos Tonanni </vcard:Address> 
+  <smg:TelephoneNumber> 016-3209-1313  </smg:TelephoneNumber> 
+  <dbpedia:owner> Meyer Margulis  </dbpedia:owner>  
+  <foaf:document> 65.011.967/0001-14  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-21.255_-48.322.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#89"> 
+  <foaf:name>OURO FINO AGRONEGOCIO LTDA </foaf:name> 
+  <vcard:Address>Rod. Anhanguera SP 330, Km 298- Dist. Industria </vcard:Address> 
+  <smg:TelephoneNumber> 016-3518-2000  </smg:TelephoneNumber> 
+  <dbpedia:owner> Vanessa Kamiko  </dbpedia:owner>  
+  <vcard:email> vanessa.ramiro@ourofino.com  </vcard:email>  
+  <foaf:document> 09.100.671/0001-07  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#90"> 
+  <foaf:name>PLATO DO BRASIL </foaf:name> 
+  <vcard:Address>Rua São Deogracias,15 </vcard:Address> 
+  <dbpedia:owner> Sandra Cristina Mizael de Azevedo  </dbpedia:owner>   
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.993_-43.573.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#91"> 
+  <foaf:name>PILARQUIM BR COMERCIAL LTDA </foaf:name> 
+  <vcard:Address>Alameda Rio Negro, 585 - Sl. 145 – Bloco A </vcard:Address> 
+  <smg:TelephoneNumber> 011-4195-2121  </smg:TelephoneNumber>  
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.511_-46.876.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#92"> 
+  <foaf:name>PETROBRAS DISTRIBUIDORA S/A </foaf:name> 
+  <vcard:Address>Rua José Paulino, 1015 – 7º andar – Sl. Da GQTAN </vcard:Address> 
+  <dbpedia:owner> Amaury B. Fernandes  </dbpedia:owner>  
+  <foaf:document> 33.000.167/0001-01  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#93"> 
+  <foaf:name>PFIZER LABORATORIOS </foaf:name> 
+  <vcard:Address>Rua Alexandre Dumas, 1711 –11º/8º andar – Ed. Birmann – Chácara Stº Antonio </vcard:Address> 
+  <smg:TelephoneNumber> 011-5185-1116  </smg:TelephoneNumber> 
+  <dbpedia:owner> José Santiago  </dbpedia:owner>  
+  <foaf:document> 46.070.868-0001-69  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#94"> 
+  <foaf:name>POLAND QUIMICA LTDA </foaf:name> 
+  <vcard:Address>rua Abílio Figueiredo, 92 – Cj. 75 </vcard:Address> 
+  <dbpedia:owner> Fernando Croaro  </dbpedia:owner>  
+  <foaf:document> 00.060.586/0002-60  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.186_-46.884.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#95"> 
+  <foaf:name>PRENTISS QUIMICA LTDA </foaf:name> 
+  <skos:prefLabel>PRÓREGISTROS CONSULTORIA LTDA </skos:prefLabel> 
+  <vcard:Address>Rua das Paineiras </vcard:Address>  
+  <foaf:document> 00.729.422/0001-00  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#96"> 
+  <foaf:name>PRODUTOS QUÍMICOS SÃO VICENTE LTDA </foaf:name> 
+  <skos:prefLabel>k</skos:prefLabel> 
+  <vcard:Address>Rua Teófilo Castanho, 420 </vcard:Address> 
+  <smg:TelephoneNumber> 11-3937-4599  </smg:TelephoneNumber>   
+  <foaf:document> 49.291.750/0001-59  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.463_-46.533.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#97"> 
+  <foaf:name>PRTRADE TECNOLOGIA E INDUSTRIA QUIMICA E FARMACEUTICA LTDA </foaf:name> 
+  <vcard:Address>Av. Prof. Lineu Prestes, 2242 – 2º andar – Sl. 5 </vcard:Address> 
+  <smg:TelephoneNumber> 011-3815-6333  </smg:TelephoneNumber> 
+  <foaf:document> 00.286.536/0001-15  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.574_-46.719.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#98"> 
+  <foaf:name>PROPHYTO COMERCIO E SERVIÇOS LTDA </foaf:name> 
+  <vcard:Address>Av. Ipiranga,318-Cj. 1601 – 16º andar </vcard:Address> 
+  <smg:TelephoneNumber> (11) 3124-4455  </smg:TelephoneNumber> 
+  <dbpedia:owner> Fabio de Almeida Domingues  </dbpedia:owner>  
+  <foaf:document> 07.118.820/0001-21  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#99"> 
+  <foaf:name>ROHM HAAS QUIMICA LTDA </foaf:name> 
+  <vcard:Address>Av. Das Nações Unidas, 14171 – 2º andar </vcard:Address> 
+  <smg:TelephoneNumber> 011-3094-3833  </smg:TelephoneNumber> 
+  <dbpedia:owner> Fabio de Almeida Domingues  </dbpedia:owner>  
+  <foaf:document> 00.310.651/0001-88  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#100"> 
+  <foaf:name>ROTAM DO BRASIL AGROQUIMICA E PRODUTOS AGRÍCOLAS </foaf:name> 
+  <vcard:Address>Rua Siqueira Campos, 125 </vcard:Address> 
+  <smg:TelephoneNumber> 019-3258-6763  </smg:TelephoneNumber> 
+  <dbpedia:owner> Eduardo Laurindo Alfonsi  </dbpedia:owner>  
+  <foaf:document> 05.772.606/0001-69  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.906_-47.061.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#101"> 
+  <foaf:name>SAMARITÁ IND. E COM. DE PROD. QUIMICOS LTDA </foaf:name> 
+  <vcard:Address>Rua João Bombo, 176 – Parque Industrial </vcard:Address> 
+  <smg:TelephoneNumber> 019-3877-1109  </smg:TelephoneNumber> 
+  <foaf:document> 54.310.503/0001-92  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.573_-47.172.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#102"> 
+  <foaf:name>SABERO ORGANICS AMERICA LTDA </foaf:name> 
+  <vcard:Address>Rua Abílio Figueiredo, 92 – Cj 75 </vcard:Address> 
+  <smg:TelephoneNumber> 11-4586-3541  </smg:TelephoneNumber> 
+  <dbpedia:owner> Fernando Croaro  </dbpedia:owner>  
+  <foaf:document> 04.016.649/0001-51  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.186_-46.884.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#103"> 
+  <foaf:name>SANACHEM BRASIL COMERCIAL LTDA </foaf:name> 
+  <vcard:Address>Rua Alexandre Dumas, 1671 – 4º C </vcard:Address> 
+  <smg:TelephoneNumber> 011-5188-9001  </smg:TelephoneNumber> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#104"> 
+  <foaf:name>SINON DO BRASIL LTDA </foaf:name> 
+  <vcard:Address>Av. Brig. Faria Lima, 1572 – 9º andar conj.905 / Sã </vcard:Address> 
+  <dbpedia:owner> Elaine Lopes da Silva  </dbpedia:owner>  
+  <foaf:document> 03.417.347/0001-22  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#105"> 
+  <foaf:name>SIPCAM UPL BRASIL S/A </foaf:name> 
+  <vcard:Address>Av.Brig. Faria Lima,1478 – 13º andar – Cj. 1305 </vcard:Address> 
+  <dbpedia:owner> João Cezar Ferst  </dbpedia:owner>  
+  <vcard:email> jferst@sipcam-isagro.com.br  </vcard:email>  
+  <foaf:document> 23.361.306/0001-79  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#106"> 
+  <foaf:name>STOLLER DO BRASIL LTDA </foaf:name> 
+  <vcard:Address>Rod. SP332, s/nº Km 138 – Caixa Postal 55 - Itapavussu </vcard:Address> 
+  <smg:TelephoneNumber> 019-3872-8288  </smg:TelephoneNumber> 
+  <dbpedia:owner> Eduardo C. P. de Souza  </dbpedia:owner>  
+  <foaf:document> 22.078.679/0001-74  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.646_-47.196.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#107"> 
+  <foaf:name>SUMITOMO CHEMICAL COM. LTDA </foaf:name> 
+  <vcard:Address>Av. Paulista, 854 – 11º andar – Cj. 112 </vcard:Address> 
+  <smg:TelephoneNumber> 011-3174-0355  </smg:TelephoneNumber> 
+  <dbpedia:owner> Inês Viviane K.S. França  </dbpedia:owner>  
+  <vcard:email> vfranca@sumitomo-chem.com.br  </vcard:email>  
+  <foaf:document> 42.462.952/0001-77  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-20.599_-47.629.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#108"> 
+  <foaf:name>SYNGENTA PROTEÇÃO DE CULTIVOS LTDA </foaf:name> 
+  <vcard:Address>Av. das Nações Unidas, 18001 – 2º andar </vcard:Address> 
+  <smg:TelephoneNumber> 011-5643-2177  </smg:TelephoneNumber> 
+  <dbpedia:owner> Celina Massita  </dbpedia:owner>  
+  <foaf:document> 60.744.463/0001-90  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#109"> 
+  <foaf:name>TAMINCO DO BRASIL PRODUTOS QUÍMICOS LTDA </foaf:name> 
+  <vcard:Address>Alameda Santos, 211 – Cj. 1905 </vcard:Address> 
+  <smg:TelephoneNumber> 11-3798-4179  </smg:TelephoneNumber> 
+  <foaf:document> 07.097.695/0001-10  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#110"> 
+  <foaf:name>TURFAL INDUSTRIA E COMERCIO DE PROD. BIO. E AGRONOMICOS LTDA </foaf:name> 
+  <vcard:Address>Rua Cunha Gago, 700 – 11º andar, Cj. 112 </vcard:Address> 
+  <smg:TelephoneNumber> 011-3094-3833  </smg:TelephoneNumber> 
+  <dbpedia:owner> Fabio Almeida Domingues  </dbpedia:owner>  
+  <foaf:document> 75.797.456/0001-23  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#111"> 
+  <foaf:name>TOTAL LUBRIFICANTES DO BRASIL </foaf:name> 
+  <vcard:Address>Rua Gomes de Casvalho, 1356 – 5º andar –vila Olímpia </vcard:Address> 
+  <smg:TelephoneNumber> 11-3848-2600  </smg:TelephoneNumber> 
+  <foaf:document> 71.770.689/0001-81  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#112"> 
+  <foaf:name>UNION AGRO LTDA </foaf:name> 
+  <vcard:Address>Rua Arlindo Décio Granetto, 210 – Caixa Postal 62 </vcard:Address> 
+  <smg:TelephoneNumber> 014-3641-3123  </smg:TelephoneNumber> 
+  <dbpedia:owner> Marcos Henrique Ustulin  </dbpedia:owner>  
+  <foaf:document> 01.149.282/0001-56  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.475_-48.547.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#113"> 
+  <foaf:name>UNITED PHOSPHORUS DO BRASIL LTDA </foaf:name> 
+  <vcard:Address>Av.Jandira, 257 – Cj. 142/143 </vcard:Address> 
+  <smg:TelephoneNumber> (11) 5055-1172 ou (11) 2337-7740  </smg:TelephoneNumber> 
+  <dbpedia:owner> Michele Cristina Morales Malagodi  </dbpedia:owner>  
+  <vcard:email> Michele.malagodi@uniphos.com  </vcard:email>  
+  <foaf:document> 05.938.194/0001-94  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#114"> 
+  <foaf:name>UNIBRAS AGRO QUIMICA LTDA </foaf:name> 
+  <vcard:Address>Rua Uruguai,2100 </vcard:Address> 
+  <smg:TelephoneNumber> 016-3628-1010  </smg:TelephoneNumber> 
+  <foaf:document> 49.169.642/0001-08  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-21.177_-47.81.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#115"> 
+  <foaf:name>VECTORCONTROL IND. E COM. DE PROD. AGR. LTDA </foaf:name> 
+  <vcard:Address>Rua Antonio Pinhata, 70 </vcard:Address> 
+  <smg:TelephoneNumber> 019-3871-3489  </smg:TelephoneNumber> 
+  <dbpedia:owner> Fernanda Vacareli  </dbpedia:owner>  
+  <foaf:document> 71.691.463/0001-95  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-22.971_-46.996.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#116"> 
+  <foaf:name>VIGNA BRASIL </foaf:name> 
+  <skos:prefLabel>ASSESSORIA EM AGRONEGOCIOS LTDA </skos:prefLabel> 
+  <vcard:Address>Av.Ipiranga,318-Cj.1601 - 16ºandar – Bloco A </vcard:Address> 
+  <smg:TelephoneNumber> (11)3259-6399  </smg:TelephoneNumber> 
+  <dbpedia:owner> Fabio Almeida Domingues  </dbpedia:owner>  
+  <foaf:document> 01.918.140/0001-06  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.547_-46.636.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#117"> 
+  <foaf:name>VOLCANO AGROCIENCIA IND. E COM. DE DEF.AGRIC. LTDA </foaf:name> 
+  <vcard:Address>Rua João Cachoeira, 488 – Cj. 703 </vcard:Address> 
+  <dbpedia:owner> Hilosi Nakaoka Nagata  </dbpedia:owner>  
+  <foaf:document> 05.820.590/0001-12  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.586_-46.682.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+
+<dbpedia:Organization rdf:about="http://www.monocromo.com.br/temp/Empresas.rdf#118"> 
+  <foaf:name>W. NEUDORFF SERVIÇOS DE AGRICULTURA DO BRASIL LTDA </foaf:name> 
+  <vcard:Address>Av. Leopoldo Couto Magalhães Jr, 110 – Cj. 51/52 </vcard:Address> 
+  <smg:TelephoneNumber> 011-3371-1120  </smg:TelephoneNumber> 
+  <dbpedia:owner> Sofia Cavalcante  </dbpedia:owner>  
+  <foaf:document> 57.941.890/0001-53  </foaf:document> 
+  <gn:locationMap>http://www.geonames.org/maps/google_-23.586_-46.682.html</gn:locationMap>  
+</dbpedia:Organization>  
+
+</rdf:RDF>
